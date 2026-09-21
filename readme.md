@@ -18,5 +18,17 @@
 
 ---
 
+## Мой скрипт: Калькулятор ресурсов Майнкрафт
+Скрипт принимает на вход общее количество блоков и автоматически переводит их в полноценные стаки по 64 штуки, выводя остаток.
+
+```python
+blocks = int(input())
+stacks = blocks // 64
+remainder = blocks % 64
+print(f"{stacks} stacks, {remainder} blocks")
+```
+
+---
+
 ## Фотка с сочи
 ![сочи](https://static.kinoafisha.info/k/articles/1200/upload/articles/486722965355.jpg)
