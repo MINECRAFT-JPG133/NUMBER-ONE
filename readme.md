@@ -19,4 +19,4 @@
 ---
 
 ##
-[![Z](https://static.kinoafisha.info/k/articles/1200/upload/articles/486722965355.jpg)
+[![Фотка в сочи](https://static.kinoafisha.info/k/articles/1200/upload/articles/486722965355.jpg)
