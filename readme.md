@@ -18,5 +18,5 @@
 
 ---
 
-## Мое изображение
-[![Моя картинка](https://static.kinoafisha.info/k/articles/1200/upload/articles/486722965355.jpg)
+##
+[![Z](https://static.kinoafisha.info/k/articles/1200/upload/articles/486722965355.jpg)
