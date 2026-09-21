@@ -19,4 +19,4 @@
 ---
 
 ## Фотка с сочи
-![сочи](ЗДЕСЬ_БУДЕТ_ССЫЛКА_НА_КАРТИНКУ)
+![сочи](https://static.kinoafisha.info/k/articles/1200/upload/articles/486722965355.jpg)
